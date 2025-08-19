@@ -8,7 +8,7 @@ This project aims to bridge the gap between SAR imagery and semantic understandi
 <img width="970" height="928" alt="image" src="https://github.com/user-attachments/assets/b6ac5cad-6c46-4613-97eb-2ea5637e5b8e" />
 
 
-The following items will be completed before August 10, 2025 (Beijing Time):
+The following items will be completed before August 30, 2025 (Beijing Time):
 
 1.Models and training code.
 
