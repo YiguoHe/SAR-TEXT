@@ -114,7 +114,7 @@ filepath,caption
 
 ## 📅 Open-Source Timeline
 
-The following resources will be fully released **before August 30, 2025 (Beijing Time)**:
+The following resources will be fully released **before September 30, 2025 (Beijing Time)**:
 
 1. 🧠 Pretrained Models (SAR-CLIP, SAR-CoCa, SAR-GPT)
 2. 🗂️ Full SAR-TEXT Dataset
