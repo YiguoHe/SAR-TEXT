@@ -28,11 +28,11 @@ The goal of this project is to bridge the gap between **synthetic aperture radar
 
 Today, we release the **SAR image–text dialogue dataset** introduced in our paper. This release includes:
 
-- 🛰 **Optical Remote Sensing (RS) Dialogue Dataset**  
+- 🛰 **Optical Remote Sensing (RS) Dialogue Dataset(RS-VQA)**  
   [`RS-VQA_conv.json`](https://github.com/YiguoHe/SAR-TEXT/blob/main/RS-VQA_conv.json)  
   Based on the RS-VQA dataset, providing multi-turn visual question answering (VQA) dialogue annotations for optical remote sensing images.
 
-- 📡 **SAR Image–Text Dialogue Dataset (SAR-TEXT)**  
+- 📡 **SAR Image–Text Dialogue Dataset (SAR-VQA)**  
   `SAR-VQA_conv.json` (shared via Baidu NetDisk)  
   🔗 [Download Link](https://pan.baidu.com/s/14mAP2t2SJ5NhYMQYkje1lg?pwd=1qqj)  
   🔑 Extraction Code: `1qqj`  
