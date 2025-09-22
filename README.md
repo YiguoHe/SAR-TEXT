@@ -2,7 +2,7 @@
 
 This is the official repository of the paper:
 
-> **SAR-TEXT: A Large-Scale SAR Image-Text Dataset Built with SAR-Narrator and Progressive Transfer Learning**
+> **SAR-TEXT: A Large-Scale SAR Image-Text Dataset Built with SAR-Narrator and A Progressive Learning Strategy for Downstream Tasks**（https://arxiv.org/abs/2507.18743）
 
 It includes:
 
@@ -26,7 +26,17 @@ The goal of this project is to bridge the gap between **synthetic aperture radar
 ---
 ## 📂 Dataset Release
 
-Today, we release the **SAR image–text dialogue dataset** introduced in our paper. This release includes:
+The complete image and caption data for the **SAR-TEXT image-text matching dataset** is available via Baidu Netdisk:
+
+- 🖼️ **SAR Image–Text Matching Dataset (SAR-TEXT)**  
+  `SAR-TEXT-data.zip` (shared via Baidu NetDisk)  
+  🔗 [Download Link](https://pan.baidu.com/s/1cn3VZ0MIvvTaOkPAo_dBog?pwd=fw5a)  
+  🔑 Extraction Code: `fw5a`  
+ 
+
+
+
+This the **SAR image–text dialogue dataset** introduced in our paper. This release includes:
 
 - 🛰 **Optical Remote Sensing (RS) Dialogue Dataset(RS-VQA)**  
   [`RS-VQA_conv.json`](https://github.com/YiguoHe/SAR-TEXT/blob/main/RS-VQA_conv.json)  
@@ -36,9 +46,26 @@ Today, we release the **SAR image–text dialogue dataset** introduced in our pa
   `SAR-VQA_conv.json` (shared via Baidu NetDisk)  
   🔗 [Download Link](https://pan.baidu.com/s/14mAP2t2SJ5NhYMQYkje1lg?pwd=1qqj)  
   🔑 Extraction Code: `1qqj`  
-  *(Shared by Baidu NetDisk Super Member v6)*
 
-Our paper is being updated to a new version, and both the full sar-text dataset and the models(SAR-CLIP,SAR-CoCa,SAR-GPT) will be released along with it.
+## 🤖 Pretrained Models Release
+
+- 🧠 **SAR-RS-CLIP**  
+  `SAR-RS-CLIP.pt` (shared via Baidu NetDisk)  
+  🔗 [Download Link](https://pan.baidu.com/s/1jbbAswSlHEi4j-2oAckiJQ?pwd=1472)  
+  🔑 Extraction Code: `1472`  
+
+
+- 🧠 **SAR-RS-CoCa**  
+  `SAR-RS-CoCa.pt` (shared via Baidu NetDisk)  
+  🔗 [Download Link](https://pan.baidu.com/s/1QqsCaQjBJWHGrWqQCIsMOQ?pwd=g4x3)  
+  🔑 Extraction Code: `g4x3`  
+
+
+- 🧠 **SAR-GPT**  
+  `SAR-GPT.pth` (shared via Baidu NetDisk)  
+  🔗 [Download Link](https://pan.baidu.com/s/1fEOdJ_cQTmjto4oH6YAPew?pwd=aqjy)  
+  🔑 Extraction Code: `aqjy`  
+
 
 ## ⚙️ Environment and Codebase Notes
 
@@ -110,17 +137,6 @@ filepath,caption
 ./test_images/img002.jpg,A satellite view of a bridge across a river.
 ```
 
----
-
-## 📅 Open-Source Timeline
-
-The following resources will be fully released **before September 30, 2025 (Beijing Time)**:
-
-1. 🧠 Pretrained Models (SAR-CLIP, SAR-CoCa, SAR-GPT)
-2. 🗂️ Full SAR-TEXT Dataset
-3. 📚 Additional documentation, usage scripts, and demos
-
----
 
 ## 📚 Acknowledgements
 
