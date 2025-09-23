@@ -2,7 +2,7 @@
 
 This is the official repository of the paper:
 
-> **SAR-TEXT: A Large-Scale SAR Image-Text Dataset Built with SAR-Narrator and A Progressive Learning Strategy for Downstream Tasks**（https://arxiv.org/pdf/2507.18743）
+> **SAR-TEXT: A Large-Scale SAR Image-Text Dataset Built with SAR-Narrator and A Progressive Learning Strategy for Downstream Tasks**（  https://arxiv.org/pdf/2507.18743  ）
 
 It includes:
 
