@@ -11,7 +11,7 @@ It includes:
   - `SAR-CLIP` for retrieval
   - `SAR-CoCa` for captioning
   - `SAR-GPT` for generation
-- 🧠 An automatic captioning pipeline based on our **SAR-Narrator** framework
+- 🧠 An automatic captioning pipeline based on our **SAR-Narrator** framework( coming soon )
 
 The goal of this project is to bridge the gap between **synthetic aperture radar (SAR)** imagery and **semantic understanding** via vision-language modeling. Everything — code, models, and data — will be open-sourced to support the community.
 
